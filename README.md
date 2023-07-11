@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**anandkr47/anandkr47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-[![anandkr47's github stats](https://github-readme-stats.vercel.app/api?username=mzz2017&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![anandkr47's github stats](https://github-readme-stats.vercel.app/api?username=anandkr47&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
