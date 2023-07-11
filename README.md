@@ -10,6 +10,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkr47&show_icons=true&locale=en&layout=compact" alt="anandkr47" /></p>
+
 ![](https://komarev.com/ghpvc/?username=anandkr47)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
