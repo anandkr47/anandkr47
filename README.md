@@ -10,6 +10,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anandkr47&icon=6&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=anandkr47)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
